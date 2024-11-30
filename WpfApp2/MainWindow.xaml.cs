@@ -48,5 +48,12 @@ namespace WpfApp2
                 DisplayImage.Source = bitmapImage;
             }
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window6 window = new Window6();
+            window.Show();
+            this.Close();
+        }
     }
 }

@@ -28,7 +28,7 @@ namespace WpfApp2
         {
             if (radiobtn1.IsChecked == true)
             {
-                Image Source = "" Stretch = "Fill";
+                
 
             }
         }
